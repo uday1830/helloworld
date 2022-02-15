@@ -1,0 +1,4 @@
+1)What is a version control system and why should one use it?
+2)What are the types of version control systems and what are the differences between them? Also give 
+examples of each type.
+3)Explain the concept of repository, working copy, branching, and merging.
